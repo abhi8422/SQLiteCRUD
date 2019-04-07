@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SqlLiteApp</string>
+    <string name="title_activity_show_employee">show_employee</string>
+</resources>
